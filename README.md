@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi 👋 I'm Elizabeth
 
-<!--
-**eprendergast/eprendergast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Software Engineer from **Victoria, Canada** 🇨🇦 currently living in **London, UK** 🇬🇧
 
-Here are some ideas to get you started:
+- 👩‍💻 I’m currently working as a Software Engineer and Team Lead at [Starling Bank](https://www.starlingbank.com/)
+- 🌱 I’m currently (re)learning **React**
+- 💬 Ask me about Java, FinTech, and career switching
+- 📫 How to reach me: elizabeth.prendergast@gmail.com 
+- 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Things I've written
+
+- [How we built real-time settlement notifications for open banking payments](https://www.yapily.com/blog/how-we-built-real-time-settlement-notifications-for-open-banking-payments)
+- [How to make a Reverse Payment with the Yapily API](https://www.linkedin.com/pulse/how-make-reverse-payment-yapily-api-elizabeth-prendergast/?trackingId=m45U35iPdQuoH5haJxP%2Ffw%3D%3D)
