@@ -10,5 +10,6 @@ Welcome to my GitHub! I'm a Software Engineer from **Victoria, Canada** 🇨🇦
 
 #### Things I've written
 
+- Resiliency at Starling: Idempotency + retries = eventual consistency (coming soon!)
 - [How we built real-time settlement notifications for open banking payments](https://www.yapily.com/blog/how-we-built-real-time-settlement-notifications-for-open-banking-payments)
 - [How to make a Reverse Payment with the Yapily API](https://www.linkedin.com/pulse/how-make-reverse-payment-yapily-api-elizabeth-prendergast/?trackingId=m45U35iPdQuoH5haJxP%2Ffw%3D%3D)
