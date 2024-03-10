@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a Software Engineer from **Victoria, Canada** 🇨🇦 currently living in **London, UK** 🇬🇧
 
-- 👩‍💻 I’m currently working as a Software Engineer and Team Lead at [Starling Bank](https://www.starlingbank.com/)
+- 👩‍💻 I’m currently working as a Software Engineer at [Starling Bank](https://www.starlingbank.com/)
 - 🌱 I’m currently (re)learning **React**
 - 💬 Ask me about Java, FinTech, and career switching
 - 📫 How to reach me: elizabeth.prendergast@gmail.com 
